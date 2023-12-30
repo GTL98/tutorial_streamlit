@@ -11,3 +11,4 @@ Aqui você encontrará os artigos na plataforma LinkedIn e os código usados em 
 |05 - Caixa de seleção|[Artigo]()|[Código](https://github.com/GTL98/tutorial_streamlit/tree/main/Aula%20%2305%20-%20Caixa%20de%20sele%C3%A7%C3%A3o)|
 |06 - Botão de seleção única|[Artigo]()|[Código](https://github.com/GTL98/tutorial_streamlit/tree/main/Aula%20%2306%20-%20Bot%C3%A3o%20de%20sele%C3%A7%C3%A3o%20%C3%BAnica)|
 |07 - Botão de seleção múltipla|[Artigo]()|[Código](https://github.com/GTL98/tutorial_streamlit/tree/main/Aula%20%2307%20-%20Bot%C3%A3o%20de%20sele%C3%A7%C3%A3o%20m%C3%BAltipla)|
+|08 - Menu lateral|[Artigo]()|[Código](https://github.com/GTL98/tutorial_streamlit/tree/main/Aula%20%2308%20-%20Menu%20lateral)|
