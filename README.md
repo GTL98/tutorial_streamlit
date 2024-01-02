@@ -2,6 +2,7 @@
 ---
 Aqui você encontrará os artigos na plataforma LinkedIn e os código usados em cada artigo.
 
+## Aulas
 |Aula|Artigo|Código|
 |-|-|-|
 |01 - Introdução|[Artigo](https://www.linkedin.com/pulse/tutorial-streamlit-aula-01-introdu%C3%A7%C3%A3o-guilherme-trevisan-linhares-gjnyf/)|[Código](https://github.com/GTL98/tutorial_streamlit/tree/main/Aula%20%2301%20-%20Introdu%C3%A7%C3%A3o)|
@@ -13,3 +14,8 @@ Aqui você encontrará os artigos na plataforma LinkedIn e os código usados em 
 |07 - Botão de seleção múltipla|[Artigo]()|[Código](https://github.com/GTL98/tutorial_streamlit/tree/main/Aula%20%2307%20-%20Bot%C3%A3o%20de%20sele%C3%A7%C3%A3o%20m%C3%BAltipla)|
 |08 - Menu lateral|[Artigo]()|[Código](https://github.com/GTL98/tutorial_streamlit/tree/main/Aula%20%2308%20-%20Menu%20lateral)|
 |09 - Mútiplas páginas|[Artigo]()|[Código](https://github.com/GTL98/tutorial_streamlit/tree/main/Aula%20%2309%20-%20M%C3%BAltiplas%20p%C3%A1ginas)
+
+
+## Projetos
+|Protejos|Artigo|Código|
+|01 - Contagem de nucleotídeos|[Artigo]()|[Código](https://github.com/GTL98/tutorial_streamlit/tree/main/Projeto%20%2301%20-%20Contagem%20de%20nucleot%C3%ADdeos)|
