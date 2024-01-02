@@ -18,4 +18,5 @@ Aqui você encontrará os artigos na plataforma LinkedIn e os código usados em 
 
 ## Projetos
 |Protejos|Artigo|Código|
+|-|-|-|
 |01 - Contagem de nucleotídeos|[Artigo]()|[Código](https://github.com/GTL98/tutorial_streamlit/tree/main/Projeto%20%2301%20-%20Contagem%20de%20nucleot%C3%ADdeos)|
