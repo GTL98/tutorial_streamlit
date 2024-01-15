@@ -21,3 +21,4 @@ Aqui você encontrará os artigos na plataforma LinkedIn e os código usados em 
 |-|-|-|
 |01 - Contagem de nucleotídeos|[Artigo]()|[Código](https://github.com/GTL98/tutorial_streamlit/tree/main/Projeto%20%2301%20-%20Contagem%20de%20nucleot%C3%ADdeos)|
 |02 - Dados de diabetes|[Artigo]()|[Código](https://github.com/GTL98/tutorial_streamlit/tree/main/Projeto%20%2302%20-%20Dados%20de%20diabetes)|
+|03 - Sobreviventes do Titanic|[Artigo]()|[Código](https://github.com/GTL98/tutorial_streamlit/tree/main/Projeto%20%2303%20-%20Sobreviventes%20do%20Titanic)|
