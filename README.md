@@ -11,9 +11,9 @@ Aqui você encontrará os artigos na plataforma LinkedIn e os código usados em 
 |04 - Escrever e enviar|[Artigo](https://www.linkedin.com/pulse/tutorial-streamlit-aula-04-escrever-e-enviar-trevisan-linhares-xku5f)|[Código](https://github.com/GTL98/tutorial_streamlit/tree/main/Aula%20%2304%20-%20Escrever%20e%20enviar)|
 |05 - Caixa de seleção|[Artigo](https://www.linkedin.com/pulse/tutorial-streamlit-aula-05-caixa-de-sele%25C3%25A7%25C3%25A3o-trevisan-linhares-l9wzf)|[Código](https://github.com/GTL98/tutorial_streamlit/tree/main/Aula%20%2305%20-%20Caixa%20de%20sele%C3%A7%C3%A3o)|
 |06 - Botão de seleção única|[Artigo](https://www.linkedin.com/pulse/tutorial-streamlit-aula-06-bot%25C3%25A3o-de-sele%25C3%25A7%25C3%25A3o-%25C3%25BAnica-guilherme-rjngf)|[Código](https://github.com/GTL98/tutorial_streamlit/tree/main/Aula%20%2306%20-%20Bot%C3%A3o%20de%20sele%C3%A7%C3%A3o%20%C3%BAnica)|
-|07 - Botão de seleção múltipla|[Artigo]()|[Código](https://github.com/GTL98/tutorial_streamlit/tree/main/Aula%20%2307%20-%20Bot%C3%A3o%20de%20sele%C3%A7%C3%A3o%20m%C3%BAltipla)|
-|08 - Menu lateral|[Artigo]()|[Código](https://github.com/GTL98/tutorial_streamlit/tree/main/Aula%20%2308%20-%20Menu%20lateral)|
-|09 - Mútiplas páginas|[Artigo]()|[Código](https://github.com/GTL98/tutorial_streamlit/tree/main/Aula%20%2309%20-%20M%C3%BAltiplas%20p%C3%A1ginas)
+|07 - Botão de seleção múltipla|[Artigo](https://www.linkedin.com/pulse/tutorial-streamlit-aula-07-bot%25C3%25A3o-de-sele%25C3%25A7%25C3%25A3o-trevisan-linhares-30ghf/)|[Código](https://github.com/GTL98/tutorial_streamlit/tree/main/Aula%20%2307%20-%20Bot%C3%A3o%20de%20sele%C3%A7%C3%A3o%20m%C3%BAltipla)|
+|08 - Menu lateral|[Artigo](https://www.linkedin.com/pulse/tutorial-streamit-aula-08-menu-lateral-guilherme-trevisan-linhares-v2dvf/)|[Código](https://github.com/GTL98/tutorial_streamlit/tree/main/Aula%20%2308%20-%20Menu%20lateral)|
+|09 - Mútiplas páginas|[Artigo](https://www.linkedin.com/pulse/tutorial-streamlit-aula-09-m%C3%BAltiplas-p%C3%A1ginas-trevisan-linhares-sqmjf/)|[Código](https://github.com/GTL98/tutorial_streamlit/tree/main/Aula%20%2309%20-%20M%C3%BAltiplas%20p%C3%A1ginas)
 
 
 ## Projetos
